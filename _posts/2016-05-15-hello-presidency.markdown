@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hello, Presidency! 
-date:       2014-06-11 15:31:19
+date:       2016-05-15 20:03:18
 summary:    I'm Chandler Watson, and this is my blog for my campaign of 2016. As far as I know, no one's ever done this before - at least, not in this classy of a manner ;)
 
 categories: presidency intro strengths
