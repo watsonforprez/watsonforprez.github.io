@@ -24,7 +24,7 @@ To be completely honest, I'm even guilty of saying phrases such as "unheard voic
 
 Let me be the first to say it - *give StuCo a break!* These are hard working young adults who put a ton of their personal time and effort into selflessly bettering the school. If you're reading this right now, please thank a StuCo member the next time you see them. Seriously - they do a lot for us.
 
-The issue is that the big picture problems and the ones that are going to be changed by leaving StuCo to fend off attacks don't overlap at all. In other words, pinning down StuCo to solve the problem alone is a waste of time. StuCo was designed to be able to publish legislation in a *methodical, well-paced* manner. The president, much like the national position it was modeled after, is intended to be seperate yet complementary - to act at a more *rapid, experimental pace* and implement such legislation. 
+The issue is that the big picture problems and the ones that are going to be changed by leaving StuCo to fend off attacks don't overlap at all. In other words, pinning down StuCo to solve the problem alone is a waste of time. StuCo was designed to be able to publish legislation in a *methodical, well-paced* manner. The president, much like the national position it was modeled after, is intended to be separate yet complementary - to act at a more *rapid, experimental pace* and implement such legislation. 
 
 Especially in the modern era, if the president is armed with no more than a pen, he or she is not separate neither complementary to StuCo. Indeed, StuCo is excellent at their job - it is simply a fact that we don't need more legislators. We need someone that can interact with StuCo *and* the student body and enact change using their unique capabilities.
 
