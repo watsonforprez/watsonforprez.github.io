@@ -2,7 +2,7 @@
 layout:     post
 title:      Hello, Presidency! 
 date:       2016-05-15 20:03:18
-summary:    I'm Chandler Watson, and this is my blog for my campaign of 2016. As far as I know, no one's ever done this before - at least, not in this classy of a manner ;)
+summary:    I'm Chandler Watson, and this is my blog for my campaign of 2016. As far as I know, no one's ever done this before - at least, not in this classy of a manner.
 
 categories: presidency intro strengths
 ---
@@ -39,4 +39,6 @@ As someone who tends to be deferential to others and kind, it may not sound like
 
 These are just a few items on the list of things I've done - if you want more (not sure why) or just want to talk about where I want to go this presidential season, stop me in the halls or fire me an email! I respond to my OES email the fastest, so I've setup <prezwatson2016@gmail.com> (available also through the contact page) to forward to that account as well. 
 
-Happy voting and choosing this season!
+Don't forget to check out my [about page](/about/) - it has a brief outline of my campaign and some of my views on the presidency. Plus, it's just a fun read.
+
+I hope you have a wonderful presidential season - happy voting!
