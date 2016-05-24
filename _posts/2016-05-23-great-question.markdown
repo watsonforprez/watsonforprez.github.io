@@ -2,7 +2,7 @@
 layout:     post
 title:      Great Question
 date:       2016-05-23 5:57:24
-summary:    I get asked a fantastic question regarding the role of the president
+summary:    I get asked a fantastic question regarding the role of the president, and encourage you to educate yourself on my positions before Friday!
 
 categories: strengths technology ideas
 ---

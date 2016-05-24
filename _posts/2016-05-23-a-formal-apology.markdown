@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      A Formal Apology
+title:      Mea Culpa
 date:       2016-05-23 5:25:54
-summary:    An apology and clarification are due from today's debate regarding the role of StuCo in school-wide decision making.
+summary:    A clarification is due from today's debate regarding the role of StuCo in school-wide decision making.
 
 categories: debate democracy representation
 ---
